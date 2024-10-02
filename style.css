@@ -1,0 +1,15 @@
+.container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+table th, table td{
+    border: 2px solid red;
+    padding: 12px;
+    border-collapse:inherit;
+    text-align: center;
+}
+th{
+    background-color: #FEBCBC;
+}
